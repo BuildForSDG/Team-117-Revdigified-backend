@@ -1,5 +1,6 @@
 A one-liner phrase describing this project or app
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2bcd7d07fc4544259ead08864aa0099d)](https://app.codacy.com/gh/BuildForSDG/Team-117-Revdigified-backend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Team-117-Revdigified-backend&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
 
 
