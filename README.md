@@ -3,11 +3,8 @@ A one-liner phrase describing this project or app
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2bcd7d07fc4544259ead08864aa0099d)](https://app.codacy.com/gh/BuildForSDG/Team-117-Revdigified-backend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Team-117-Revdigified-backend&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
 
-
 ## About
-
 What is this project about. Ok to enrich here or the section above it with an image. 
-
 Once this repo has been setup on Codacy by the TTL, replace the above badge with the actual one from the Codacy dashboard, and add the code coverage badge as well. This is mandatory
 
 This is a simple python starter repo template for setting up your project. The setup contains:
@@ -19,12 +16,10 @@ This is a simple python starter repo template for setting up your project. The s
 - flake8: for linting and formatting
 
 ## Why
-
 Talk about what problem this solves, what SDG(s) and SGD targets it addresses and why these are important
 
 ## Usage
 How would someone use what you have built, include URLs to the deployed app, service e.t.c when you have it setup
-
 
 ## Setup
 You should have **Python 3.5+** and **git** installed. 
@@ -96,9 +91,7 @@ All tests should be written in the `tests` folder. tests/test_src.py is a sample
 - Run your project:
   `poetry run app`
 
-
 ## Authors
-
 List the team behind this project. Their names linked to their Github, LinkedIn, or Twitter accounts should siffice. Ok to signify the role they play in the project, including the TTL and mentor
 
 ## Contributing
@@ -109,7 +102,6 @@ First, you can send a mail to buildforsdg@andela.com to indicate your interest, 
 3.  area three (e.g here is the zoom link to our end-of sprint webinar, join and provide feedback as a stakeholder if you can)
 
 ## Acknowledgements
-
 Did you use someone else’s code?
 Do you want to thank someone explicitly?
 Did someone’s blog post spark off a wonderful idea or give you a solution to nagging problem?
