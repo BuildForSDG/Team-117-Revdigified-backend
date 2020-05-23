@@ -6,7 +6,7 @@ from django.utils import timezone
 from .managers import CustomUserManager
 
 # Create your models here.
-class RevDigifiedUser(AbstractBaseUser, PermissionsMixin):
+class RDUser(AbstractBaseUser, PermissionsMixin):
     is_taxpayer = models.BooleanField(default=True)
     is_taxcollector = models.BooleanField(default=False)
     is_auditor = models.BooleanField(default=False)
