@@ -13,12 +13,12 @@ class RDUser(AbstractBaseUser, PermissionsMixin):
     is_systemAdmin = models.BooleanField(default=False)
     is_staff = models.BooleanField(default=False)
     email = models.EmailField(_('email address'), unique=True)
-    fist_name = models.CharField(max_length=30)
+    first_name = models.CharField(max_length=30)
     last_name = models.CharField(max_length=30)
-    DOB = models.DateField(default=timezone.now)
+    DOB = models.DateField(default=timezone.now().date())
 
     USERNAME_FIELD = 'email'
-    REQUIRED_FIELDS =['DOB','fist_name','last_name' ]
+    REQUIRED_FIELDS =['DOB','first_name','last_name' ]
 
     objects = CustomUserManager()
 
